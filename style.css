@@ -1,0 +1,13 @@
+table ,  th , td {
+    background: darkblue;
+    border-collapse: collapse;
+color: darkgoldenrod
+}
+th {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkturquoise;
+}
+.cone :nth-child(1) {
+    background-color:aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
